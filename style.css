@@ -1,0 +1,21 @@
+.box {
+    height: 168px;
+    width: 305px;
+    border: 1px solid #DB00FF; 
+}
+.nam {
+    height: 121px;
+    width: 657px;
+    border: dotted 3px #450E4E;
+}
+.et {
+    height: 95px;
+    width: 399px;
+    border: 3px #04FF4A solid;
+}
+.ga {
+    height: 173px;
+    width: 1097px;
+    border: 3px #736E42 solid;
+    background-color: #247daf;
+}
